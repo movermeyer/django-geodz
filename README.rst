@@ -5,11 +5,11 @@ django-geodz
 .. image:: https://badge.fury.io/py/django-geodz.svg
     :target: http://badge.fury.io/py/django-geodz
 
-.. image:: https://pypip.in/download/django-geodz/badge.png
+.. image:: https://img.shields.io/pypi/dm/django-geodz.svg
     :target: https://pypi.python.org/pypi/django-geodz/
     :alt: Downloads
 
-.. image:: https://pypip.in/license/django-geodz/badge.png
+.. image:: https://img.shields.io/pypi/l/django-geodz.svg
     :target: https://pypi.python.org/pypi/django-geodz/
     :alt: License
 
